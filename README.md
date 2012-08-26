@@ -29,8 +29,12 @@ Images
 
 <table>
 <tr>
-      <th>![image1](https://raw.github.com/styrken/MasterDetailController/master/image1.png)</th>
-	  <th>![image2](https://raw.github.com/styrken/MasterDetailController/master/image2.png)</th>
+      <th>
+![image1](https://raw.github.com/styrken/MasterDetailController/master/image1.png)
+	  </th>
+	  <th>
+![image2](https://raw.github.com/styrken/MasterDetailController/master/image2.png)
+</th>
 </tr>
 </table>
 
