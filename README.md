@@ -22,3 +22,11 @@ in AppDelegate application:didFinishLaunchingWithOptions: set MasterDetailViewCo
   self.window.rootViewController = self.viewController;
 ```
 Hope you figure out how it works :-)
+
+
+Images
+-------------------------
+
+![image1](https://github.com/styrken/MasterDetailController.git/image1.jpg)
+![image2](https://github.com/styrken/MasterDetailController.git/image2.jpg)
+
