@@ -10,6 +10,7 @@ How-To
 
 in AppDelegate application:didFinishLaunchingWithOptions: set MasterDetailViewController as rootview.
 
+* Add QuartzCore framework to your project. This is needed to draw a nice shadow below the detail view
 * Create two view controllers (one that serves a master view, another that serves a detail view)
 * Init MasterViewController with these two controllers 
 * Add MasterViewController as rootview (or as some other view that suit you)
