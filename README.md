@@ -27,6 +27,6 @@ Hope you figure out how it works :-)
 Images
 -------------------------
 
-![image1](https://github.com/styrken/MasterDetailController/blob/master/image1.png)
-![image2](https://github.com/styrken/MasterDetailController/blob/master/image2.png)
+![image1](styrken.github.com/MasterDetailController/image1.png)
+![image2](styrken.github.com/MasterDetailController/image2.png)
 
