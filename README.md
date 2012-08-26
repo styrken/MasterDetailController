@@ -24,12 +24,12 @@ in AppDelegate application:didFinishLaunchingWithOptions: set MasterDetailViewCo
 Hope you figure out how it works :-)
 
 
-Images
+Example
 -------------------------
 
-![image1](https://raw.github.com/styrken/MasterDetailController/master/image1.png)
+When you slide your finger right, a master view will be presented. If you slide it left it will go away.
 
-![image2](https://raw.github.com/styrken/MasterDetailController/master/image2.png)
+![image1](https://raw.github.com/styrken/MasterDetailController/master/image1.png)
 
 
 
